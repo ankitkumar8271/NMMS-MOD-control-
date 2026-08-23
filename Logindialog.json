@@ -1,16 +1,13 @@
 {
   "system_active": true,
-  "min_app_version": 102,
-  "update_url": "https://t.me/MODDERHUB1",
-  "block_emulators": false,
-  "announcement": "📢 Welcome to MODDERHUB! Enjoy premium features safely.",
-  "dialog_title": "PREMIUM ACCESS CONTROL",
-  "unauthorized_msg": "Your subscription has expired or device is not authorized.",
+  "dialog_title": "ACTIVATE PREMIUM LICENSE",
+  "unauthorized_msg": "Please enter your valid license key to unlock the application.",
   "telegram_url": "https://t.me/MODDERHUB1",
   "whatsapp_url": "https://wa.me/14508325854",
   "users": [
     {
-      "device_id": "B7FCE53CFAA967AB",
+      "device_id": "A1B2C3D4E5F67890",
+      "license_key": "MODDER-VIP-9999",
       "expiry_date": "2026-12-31 23:59:59"
     }
   ]
